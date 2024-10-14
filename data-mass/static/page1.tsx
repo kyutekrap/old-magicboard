@@ -41,7 +41,7 @@ const Page1 = ({
                 right: 20
             }}
             >
-                <CustomFab buttonAction={() => window.location.href = 'https://link-api.notion.site/Magic-Board-API-Docs-87e3358382804f79819c60018c2285c7?pvs=74'}>
+                <CustomFab>
                     <CustomFab.Title>Go to API Docs</CustomFab.Title>
                 </CustomFab>
             </div>
