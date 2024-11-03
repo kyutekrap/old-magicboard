@@ -1,4 +1,4 @@
 # old-magicboard
-Half package
+Half package when I used redux before implementing cachier-api
 
-This is based on next.js library. I removed pieces that are incorporated in the production version. Use this for reference or educational purpose only.
+FYI. This is based on next.js library. I removed pieces that are incorporated in the production version. Use this for reference or educational purpose only.
